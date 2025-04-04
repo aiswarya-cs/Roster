@@ -1,4 +1,10 @@
 {
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  "build": "npx tailwindcss -i ./src/output.css -o ./public/output.css --minify && npx cpy index.html src/js/script.js dist/"
+},
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
