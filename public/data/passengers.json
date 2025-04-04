@@ -1,0 +1,109 @@
+{
+  "employees": [
+    {
+      "s1_no": 1,
+      "empid": "TEK1001",
+      "name": "Anoop",
+      "gender": "Male",
+      "place": "Perzookada"
+    },
+    {
+      "s1_no": 2,
+      "empid": "TEK1002",
+      "name": "Asha",
+      "gender": "Female",
+      "place": "Ambalamokku"
+    },
+    {
+      "s1_no": 3,
+      "empid": "TEK1003",
+      "name": "Binoy",
+      "gender": "Male",
+      "place": "Pattom"
+    },
+    {
+      "s1_no": 4,
+      "empid": "TEK1004",
+      "name": "Deepa",
+      "gender": "Female",
+      "place": "Anayara"
+    },
+    {
+      "s1_no": 5,
+      "empid": "TEK1005",
+      "name": "Rahul",
+      "gender": "Male",
+      "place": "Perzookada"
+    },
+    {
+      "s1_no": 6,
+      "empid": "TEK1006",
+      "name": "Meera",
+      "gender": "Female",
+      "place": "Ambalamokku"
+    },
+    {
+      "s1_no": 7,
+      "empid": "TEK1007",
+      "name": "Suresh",
+      "gender": "Male",
+      "place": "Pattom"
+    },
+    {
+      "s1_no": 8,
+      "empid": "TEK1008",
+      "name": "Kavya",
+      "gender": "Female",
+      "place": "Anayara"
+    },
+    {
+      "s1_no": 9,
+      "empid": "TEK1009",
+      "name": "Rajesh",
+      "gender": "Male",
+      "place": "Perzookada"
+    },
+    {
+      "s1_no": 10,
+      "empid": "TEK1010",
+      "name": "Neha",
+      "gender": "Female",
+      "place": "Ambalamokku"
+    },
+    {
+      "s1_no": 11,
+      "empid": "TEK1011",
+      "name": "Vivek",
+      "gender": "Male",
+      "place": "Pattom"
+    },
+    {
+      "s1_no": 12,
+      "empid": "TEK1012",
+      "name": "Latha",
+      "gender": "Female",
+      "place": "Anayara"
+    },
+    {
+      "s1_no": 13,
+      "empid": "TEK1013",
+      "name": "Arun",
+      "gender": "Male",
+      "place": "Perzookada"
+    },
+    {
+      "s1_no": 14,
+      "empid": "TEK1014",
+      "name": "Divya",
+      "gender": "Female",
+      "place": "Ambalamokku"
+    },
+    {
+      "s1_no": 15,
+      "empid": "TEK1015",
+      "name": "Manoj",
+      "gender": "Male",
+      "place": "Pattom"
+    }
+  ]
+}
